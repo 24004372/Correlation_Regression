@@ -1,5 +1,9 @@
 # EXP 3: Correlation and regression for data analysis
-# Date:29.04.25
+## DEVELOPED BY : SHRIRAM VR
+## REG NO : 212224040314
+## DEPT : BE CSE
+
+# Date:28.03.25
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
